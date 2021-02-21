@@ -1,0 +1,3 @@
+displayName = Mod of Combinations
+author = AshesBTW
+version = 0.1
